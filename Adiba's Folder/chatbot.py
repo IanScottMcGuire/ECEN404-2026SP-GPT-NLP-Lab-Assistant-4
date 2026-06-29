@@ -32,7 +32,7 @@ except ImportError:
 #                     CONFIGURATION
 # ═══════════════════════════════════════════════════════════
 
-API_KEY      = "sk-e943be03157c47b79e88a674d2b16c3c"
+API_KEY      = "API"
 API_URL      = "https://chat-api.tamu.ai"
 INDEX_PATH   = "index/vector_index.pkl"
 MODEL_NAME   = "all-MiniLM-L6-v2"
